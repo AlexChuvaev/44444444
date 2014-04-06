@@ -1,0 +1,19 @@
+<!-- Author: Marina Pushkova -->
+<!-- Author: Marina Pushkova (marina@githowto.com) -->
+<html>
+<<<<<<< HEAD
+    <head>
+        <link type="text/css" rel="stylesheet" media="all" href="style.css" />
+    </head>
+    <body>
+        <h1>Hello, World!</h1>
+    </body>
+=======
+	<head>
+	<!-- no style -->
+  </head>
+  <body>
+    <h1>Hello, World!</h1>
+  </body>
+>>>>>>> master
+</html>  
